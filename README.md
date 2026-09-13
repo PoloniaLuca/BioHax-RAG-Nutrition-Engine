@@ -25,7 +25,7 @@ A mobile application utilizing a custom RAG (Retrieval-Augmented Generation) pip
 </p> -->
 
 <!-- > **Note for the developer**: You can replace the two screenshot `<img>` tags above with a single GIF like this:
-> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />` --> -->
+> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />` -->
 
 ## 🏗 System Architecture
 
