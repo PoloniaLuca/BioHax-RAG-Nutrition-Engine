@@ -1,5 +1,4 @@
 import '../global.css';
-import { DarkTheme, ThemeProvider } from '@react-navigation/native';
 import { Stack, useRouter, useSegments } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import 'react-native-reanimated';
@@ -71,13 +70,11 @@ function InitialLayout() {
 
 export default function RootLayout() {
   return (
-    <ThemeProvider value={DarkTheme}>
-      <QueryClientProvider client={queryClient}>
-        <AuthProvider>
-          <InitialLayout />
-          <StatusBar style="light" />
-        </AuthProvider>
-      </QueryClientProvider>
-    </ThemeProvider>
+    <QueryClientProvider client={queryClient}>
+      <AuthProvider>
+        <InitialLayout />
+        <StatusBar style="light" />
+      </AuthProvider>
+    </QueryClientProvider>
   );
 }

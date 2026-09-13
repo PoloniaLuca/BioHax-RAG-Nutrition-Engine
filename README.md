@@ -13,7 +13,7 @@ A mobile application utilizing a custom RAG (Retrieval-Augmented Generation) pip
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-## 📱 Demo
+<!-- ## 📱 Demo
 
 *Querying the RAG engine and receiving grounded, personalized outputs based on the ingested scientific literature.*
 
@@ -25,7 +25,7 @@ A mobile application utilizing a custom RAG (Retrieval-Augmented Generation) pip
 </p>
 
 > **Note for the developer**: You can replace the two screenshot `<img>` tags above with a single GIF like this:
-> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />`
+> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />` -->
 
 ## 🏗 System Architecture
 
