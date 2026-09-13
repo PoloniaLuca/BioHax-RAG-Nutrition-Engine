@@ -19,13 +19,13 @@ A mobile application utilizing a custom RAG (Retrieval-Augmented Generation) pip
 
 <p align="center">
   <!-- Replace the `src` paths with your actual screenshots or a GIF -->
-  <img src="docs/assets/query-screenshot.png" alt="User Query Screenshot" width="300" />
+  <!-- <img src="docs/assets/query-screenshot.png" alt="User Query Screenshot" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/assets/response-screenshot.png" alt="RAG Response Screenshot" width="300" />
-</p>
+</p> -->
 
-> **Note for the developer**: You can replace the two screenshot `<img>` tags above with a single GIF like this:
-> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />` -->
+<!-- > **Note for the developer**: You can replace the two screenshot `<img>` tags above with a single GIF like this:
+> `<img src="docs/assets/demo.gif" alt="App Demo" width="300" />` --> -->
 
 ## 🏗 System Architecture
 
